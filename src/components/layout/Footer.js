@@ -4,6 +4,7 @@ import classNames from 'classnames';
 import Logo from './partials/Logo';
 import FooterNav from './partials/FooterNav';
 import FooterSocial from './partials/FooterSocial';
+import { FloatingWhatsApp } from 'react-floating-whatsapp';
 
 const propTypes = {
   topOuterDivider: PropTypes.bool,
@@ -49,6 +50,14 @@ const Footer = ({
           </div>
         </div>
       </div>
+      <FloatingWhatsApp
+        phoneNumber="+13056486102"
+        accountName="Maestro Bashna"
+        allowEsc
+        allowClickAway
+        notification
+        notificationSound
+      />
     </footer>
   );
 }
