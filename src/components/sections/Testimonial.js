@@ -45,8 +45,8 @@ const Testimonial = ({
   );
 
   const sectionHeader = {
-    title: 'Testimonios espirituales',
-    paragraph: 'Algunos testimonios de nuestros alumnos espirituales agradecidos'
+    title: 'Testimonios',
+    paragraph: 'Testimonios de viajeros espirituales satisfechos con su guia'
   };
 
   return (
@@ -61,42 +61,57 @@ const Testimonial = ({
 
             <div className="tiles-item reveal-from-right" data-reveal-delay="200">
               <div className="tiles-item-inner">
-                <div className="testimonial-item-content">
                 <Image
+                  className="img-testimonial"
                   src={require('./../../assets/images/wppscreen.jpg')}
                   alt="Features split 03"
-                  width={150}
-                  height={150}
+                  width={350}
+                  height={300}
                    />
-                </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
-                  <span className="testimonial-item-name text-color-high">Roman Level</span>
+                  <span className="testimonial-item-name text-color-high">Steven li</span>
+                  <span className="text-color-low"> / </span>
+                  <span className="testimonial-item-link">
+                    <a href="#0">testimonio</a>
+                  </span>
                 </div>
               </div>
             </div>
 
             <div className="tiles-item reveal-from-bottom">
               <div className="tiles-item-inner">
-                <div className="testimonial-item-content">
-                  <p className="text-sm mb-0">
-                    — Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum cillum dolore eu fugiat.
-                      </p>
-                </div>
+                <Image
+                  className="img-testimonial"
+                  src={require('./../../assets/images/wppscreen.jpg')}
+                  alt="Features split 03"
+                  width={350}
+                  height={300}
+                   />
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
-                  <span className="testimonial-item-name text-color-high">Diana Rynzhuk</span>
+                  <span className="testimonial-item-name text-color-high">Yeison Garzon</span>
+                  <span className="text-color-low"> / </span>
+                  <span className="testimonial-item-link">
+                    <a href="#0">Testimonio</a>
+                  </span>
                 </div>
               </div>
             </div>
 
             <div className="tiles-item reveal-from-left" data-reveal-delay="200">
               <div className="tiles-item-inner">
-                <div className="testimonial-item-content">
-                  <p className="text-sm mb-0">
-                    — Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum cillum dolore eu fugiat.
-                      </p>
-                </div>
+                <Image
+                  className="img-testimonial"
+                  src={require('./../../assets/images/wppscreen.jpg')}
+                  alt="Features split 03"
+                  width={350}
+                  height={300}
+                   />
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
-                  <span className="testimonial-item-name text-color-high">Ben Stafford</span>
+                  <span className="testimonial-item-name text-color-high">Diego Garcia</span>
+                  <span className="text-color-low"> / </span>
+                  <span className="testimonial-item-link">
+                    <a href="#0">Testimonio</a>
+                  </span>
                 </div>
               </div>
             </div>

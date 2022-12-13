@@ -14,10 +14,12 @@
 		padding-bottom: $split-item--padding-v__mobile * 0.5;
 		display: flex;
 		flex-direction: column;
+		background-color: B3A04D;
 
 		.split-item-image {
 			position: relative;
 			width: 400px;
+			background-color: B3A04D;
 
 			img,
 			svg,

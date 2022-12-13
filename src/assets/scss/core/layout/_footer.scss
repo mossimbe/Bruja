@@ -83,23 +83,30 @@
 
 .footer-social,
 .footer-nav {
-
+		
 	a {
 		display: flex;
 	}
 
 	ul {
 		display: flex;
-		flex-wrap: wrap;
-		justify-content: center;
-		align-items: center;
-		white-space: nowrap;
-		margin-bottom: 0;
+		position: absolute;
+		top: 50px;
+		transform: 50%;
+		translate: 75%;
+		}
+		a{
+			padding: auto;
+			li{
+				color: #B3A04D;
+			}
+		}
 	}
-}
+
 
 .footer-social {
 
+	border-bottom: solid 1px;
 	ul {
 		margin-right: -($footer-social--inner-padding + $footer-social--outer-padding-h);
 		margin-left: -($footer-social--inner-padding + $footer-social--outer-padding-h);

@@ -67,11 +67,6 @@
 	color: color(primary);
 }
 
-.text-color-default {
-	color: color(default);
-}
-
-
 .text-color-secondary {
 	color: color(secondary);
 }
@@ -135,6 +130,7 @@
 
 img.has-shadow {
 	border-radius: $img-radius;
+
 }
 
 // Dividers

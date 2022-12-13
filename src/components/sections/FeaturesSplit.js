@@ -50,7 +50,7 @@ const FeaturesSplit = ({
   );
 
   const sectionHeader = {
-    title: 'Magia Blanca',
+    title: 'Trabajos Espirituales',
     paragraph: ''
   };
 
@@ -108,7 +108,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/corazonyisus.png')}
+                  src={require('./../../assets/images/jesuscorazon.png')}
                   alt="Features split 02"
                   width={488}
                   height={396} />
@@ -133,7 +133,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/Chamuel.png')}
+                  src={require('./../../assets/images/arcangel-san-uriel.png')}
                   alt="Features split 03"
                   width={400}
                   height={350}
@@ -160,7 +160,7 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item">
                 <Image
                   style={{ width: '400px', height: '550px' }}
-                  src={require('./../../assets/images/mercurio-hermes.gif')}
+                  src={require('./../../assets/images/arcangel.png')}
                   alt="Features split 03" />
               </div>
             </div>

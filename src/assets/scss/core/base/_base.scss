@@ -9,7 +9,7 @@ html {
 }
 
 body {
-	background-color: rgba($color: #00aae4, $alpha: 0.5); /* Fallback for when there is no custom background color defined. */
+	background-color: rgba($color: #f4f4f4, $alpha: 1); /* Fallback for when there is no custom background color defined. */
 	-moz-osx-font-smoothing: grayscale;
 	-webkit-font-smoothing: antialiased;
 	
@@ -67,7 +67,7 @@ dd {
 }
 
 img {
-	border-radius: $img-radius-icon;
+	border-radius: $img-radius;
 }
 
 img,
