@@ -3,7 +3,6 @@ import classNames from 'classnames';
 import { Link } from 'react-router-dom';
 import Image from '../../elements/Image';
 import imgLogo from "../../../assets/images/3.png"
-import FooterNav from './FooterNav';
 
 const Logo = ({
   className,
@@ -29,7 +28,6 @@ const Logo = ({
             height={52} />
         </Link>
         <div {...props} className={classes}>
-        <FooterNav/>
         </div>
     </div>
   );

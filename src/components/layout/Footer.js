@@ -46,13 +46,13 @@ const Footer = ({
           </div>
           <div className="footer-bottom space-between bg-color text-xxs invert-order-desktop">
             <FooterNav />
-            <div className="footer-copyright text-color-primary">Copyright © 2022 <a href="https://guiabashna.com" className='text-color-primary'>Bashna</a></div> 
+            <div className="footer-copyright text-color-primary">Copyright © 2022 <a href="https://cruip.com" className='text-color-primary'>Bashna</a></div> 
           </div>
         </div>
       </div>
       <FloatingWhatsApp
         phoneNumber="+13056486102"
-        accountName="Maestro Bashna"
+        accountName="Maestro"
         allowEsc
         allowClickAway
         notification
