@@ -17,9 +17,9 @@ const FooterNav = ({
       className={classes}
     >
       <ul className="list-reset">
-        <a href='#'><li>Servicios</li></a>
-        <a href='#'><li>Trabajos espirituales</li></a>
-        <a href='#'><li>Testimonios</li></a>
+      <a href="url"><li>Guias</li></a>
+      <a href="url"><li>Trabajos Espirituales</li></a>
+      <a href="url"><li>Testimonios</li></a>
       </ul>
     </nav>
   );
