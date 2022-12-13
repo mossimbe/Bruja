@@ -14,6 +14,23 @@
 
 	.brand {
 		margin-right: $header-nav--padding-h;
+		
+		@media screen and (max-width: 600px) {
+			padding-top: 0px !important;
+			
+			.logo-primary {
+				width: 100px !important;
+			}
+		}
+
+		@media screen and (max-width: 400px) {
+			.logo-primary {
+				width: 70px !important;
+			}
+		}
+		.logo-primary {
+			padding-top: 100px;
+		}
 	}	
 }
 

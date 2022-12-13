@@ -70,7 +70,7 @@ const Hero = ({
               <div className="reveal-from-bottom mt-2" data-reveal-delay="600">
                 <ButtonGroup>
                   <Button tag="a"  wideMobile href="https://cruip.com/">
-                    ¡Programa tu guia!
+                    Agenda cita con el maestro
                     </Button>
                 </ButtonGroup>
               </div>
@@ -85,7 +85,7 @@ const Hero = ({
             >
               <Image
                 className="has-shadow"
-                src={require('./../../assets/images/sanmiguel.jpg')}
+                src={require('./../../assets/images/2.png')}
                 alt="Hero"
                 width={434}
                 height={300} />

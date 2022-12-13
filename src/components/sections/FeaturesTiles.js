@@ -62,7 +62,7 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-header">
                   <div className="features-tiles-item-image mb-16">
                     <Image
-                      src={require('./../../assets/images/medit.png')}
+                      src={require('./../../assets/images/corazonyisus.png')}
                       alt="Features tile icon 02"
                       width={64}
                       height={64} />
@@ -73,7 +73,7 @@ const FeaturesTiles = ({
                     Sanacion Espiritual
                   </h4>
                   <p className="m-0 text-sm text-color-secondary ">
-                    Brindamos guia y acompañamiento en tu Sanacion Espiritual.
+                  Hay enfermedades impuestas o  postizas que  realizan las personas inescrupulosas por hacernos daños.
                   </p>
                 </div>
               </div>
@@ -84,7 +84,7 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-header">
                   <div className="features-tiles-item-image mb-16">
                     <Image
-                      src={require('./../../assets/images/corazon.png')}
+                      src={require('./../../assets/images/Chamuel.png')}
                       alt="Features tile icon 02"
                       width={64}
                       height={64} />
@@ -92,10 +92,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8 text-color-primary ">
-                    Amores Y Desamores
+                  Trabajos de Amor con Chamuel
                   </h4>
                   <p className="m-0 text-sm text-color-secondary ">
-                    Te podemos ayudar con tus problemas de Amor y Desamor
+                  Los amarres de amor que realizamos con Chamuel no afecta a su pareja ,Chamuel es el  Arcángel del amor.
                   </p>
                 </div>
               </div>
@@ -105,7 +105,7 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-header">
                   <div className="features-tiles-item-image mb-16">
                     <Image
-                      src={require('./../../assets/images/buda.png')}
+                      src={require('./../../assets/images/sanmiguel.png')}
                       alt="Features tile icon 02"
                       width={64}
                       height={64} 
@@ -114,10 +114,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8 text-color-primary">
-                    limpiezas Espirituales
+                  Limpia angelical
                   </h4>
                   <p className="m-0 text-sm  text-color-secondary">
-                    Te brindamos Guia en tus dificultades y problemas del alma...
+                  La limpias angelicales que realizamos te ayudan a desbloquearte en la salud el dinero y el amor ayudando así ah que tu vida mejore notablemente
                   </p>
                 </div>
               </div>
@@ -127,7 +127,7 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-header">
                   <div className="features-tiles-item-image mb-16">
                     <Image
-                      src={require('./../../assets/images/amuleto.webp')}
+                      src={require('./../../assets/images/amuletos.png')}
                       alt="Features tile icon 01"
                       width={64}
                       height={64} />
@@ -135,10 +135,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8 text-color-primary">
-                    Amuletos
+                    Protecciones Espirituales
                   </h4>
                   <p className="m-0 text-sm text-color-secondary ">
-                    Amuletos que ayudan a tu proteccion
+                  Muchas veces necesitamos proteger nuestra vida con contras que impidan que las personas con Malas intenciones hacia nosotros lleguen a cumplir su objetivo.
                   </p>
                 </div>
               </div>
@@ -148,7 +148,7 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-header">
                   <div className="features-tiles-item-image mb-16">
                     <Image
-                      src={require('./../../assets/images/manos.png')}
+                      src={require('./../../assets/images/cadenas.png')}
                       alt="Features tile icon 02"
                       width={64}
                       height={64} />
@@ -156,10 +156,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8 text-color-primary">
-                    Mejorar Salud
+                  Desbloqueos
                   </h4>
                   <p className="m-0 text-sm text-color-secondary">
-                    Te ayudamos y guiamos al mejoramiento de tu salud
+                  Realizamos desbloqueos para que tu vida mejore sus energías cambien te quitas el mal que tienes a nivel familiar local males impuestos y así puedas seguir tu vida con el éxito que quizás antes tenías
                   </p>
                 </div>
               </div>
@@ -170,7 +170,7 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-header">
                   <div className="features-tiles-item-image mb-16">
                     <Image
-                      src={require('./../../assets/images/sanmiguel.jpg')}
+                      src={require('./../../assets/images/sanalejo.png')}
                       alt="Features tile icon 03"
                       width={64}
                       height={64} />
@@ -178,10 +178,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8 text-color-primary">
-                    Android
+                  Alejamiento de personas 
                   </h4>
                   <p className="m-0 text-sm text-color-secondary ">
-                    Celulares de todas del mercado.
+                    Ayudamos alejar personas interesadas y no deseadas de tu vida que bloquean Tu camino y tus energías
                   </p>
                 </div>
               </div>

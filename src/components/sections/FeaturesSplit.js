@@ -67,13 +67,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                Protecciones Espirituales
+                Comunicaciones espirituales
                   </div>
-                <h3 className="mt-0 mb-12">
-                  Protecciones
+                <h3 className="mt-0 mb-12 text-color-default">
+                Comunicacion con seres queridos muertos
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                Te ayudamos a comunicarte con tus seres queridos que ya no están muchas veces las personas que se van quedan con muchas cosas pendientes para decirnos Y eso hace que ellos no tengan paz y tranquilidad en el más allá ayudamos que por medio de esta consulta puedas aclarar tus dudas y esa persona descanse Cómo se lo merece en la eternidad
                   </p>
               </div>
               <div className={
@@ -83,7 +83,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/spiritsaint.webp')}
+                  src={require('./../../assets/images/espiritu.png')}
                   alt="Features split 01"
                   width={488}
                   height={376} />
@@ -95,12 +95,11 @@ const FeaturesSplit = ({
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
                   Salud
                   </div>
-                <h3 className="mt-0 mb-12">
+                <h3 className="mt-0 mb-12 text-color-default">
                   Mejorar tu salud
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                  </p>
+                Hay enfermedades impuestas o  postizas que  realizan las personas inescrupulosas por hacernos daños que no tienen cura personas que intentan que estemos mal de salud y estemos mal  en todos los ámbitos, nosotros te ayudamos a descubrir quién te hizo el mal a bloquearlo y mejorar tu vida</p>
               </div>
               <div className={
                 classNames(
@@ -109,7 +108,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/astrologia.png')}
+                  src={require('./../../assets/images/corazonyisus.png')}
                   alt="Features split 02"
                   width={488}
                   height={396} />
@@ -119,14 +118,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Amuletos y acesorios
+                  Trabajos de amor
                   </div>
-                <h3 className="mt-0 mb-12">
-                  Amuletos
+                <h3 className="mt-0 mb-12 text-color-default">
+                  Chamuel Arcángel del amor
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                  </p>
+                Los amarres de amor que realizamos con Chamuel no afecta a su pareja ,Chamuel es el  Arcángel del amor, el ayuda a renovar tu relacion, el deseo perdido, el amor consumido y protege tu relacion de todos los daños de personas que quieran arruinar tu relacion.</p>
               </div>
               <div className={
                 classNames(
@@ -135,10 +133,11 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/amuleto.webp')}
+                  src={require('./../../assets/images/Chamuel.png')}
                   alt="Features split 03"
-                  width={528}
-                  height={396} />
+                  width={400}
+                  height={350}
+                   />
               </div>
             </div>
 
@@ -147,12 +146,11 @@ const FeaturesSplit = ({
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
                   Limpiezas espirituales
                   </div>
-                <h3 className="mt-0 mb-12">
+                <h3 className="mt-0 mb-12 text-color-default">
                   Limpieza espiritual
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                  </p>
+                La limpias angelicales que realizamos te ayudan a desbloquearte en la salud el dinero y el amor ayudando así ah que tu vida mejore notablemente</p>
               </div>
               <div className={
                 classNames(

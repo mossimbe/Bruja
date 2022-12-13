@@ -2,7 +2,6 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import classNames from 'classnames';
 import { SectionProps } from '../../utils/SectionProps';
-import Input from '../elements/Input';
 
 const propTypes = {
   ...SectionProps.types,
@@ -34,33 +33,15 @@ const Cta = ({
     invertColor && 'invert-color',
     className
   );
-
-  const innerClasses = classNames(
-    'cta-inner section-inner',
-    topDivider && 'has-top-divider',
-    bottomDivider && 'has-bottom-divider',
-    split && 'cta-split'
-  );  
+ 
 
   return (
     <section
       {...props}
       className={outerClasses}
     >
-      <div className="container">
-        <div
-          className={innerClasses}
-        >
-          <div className="cta-slogan">
-            <h3 className="m-0">
-              Lorem
-              </h3>
-          </div>
-          <div className="cta-action">
-      
-          </div>
-        </div>
-      </div>
+   
+
     </section>
   );
 }

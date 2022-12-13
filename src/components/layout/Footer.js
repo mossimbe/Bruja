@@ -43,9 +43,9 @@ const Footer = ({
             <Logo />
             <FooterSocial />
           </div>
-          <div className="footer-bottom space-between text-xxs invert-order-desktop">
+          <div className="footer-bottom space-between bg-color text-xxs invert-order-desktop">
             <FooterNav />
-            <div className="footer-copyright">Copyright © 2022 <a href="https://cruip.com">Bashna</a></div> 
+            <div className="footer-copyright text-color-primary">Copyright © 2022 <a href="https://cruip.com" className='text-color-primary'>Bashna</a></div> 
           </div>
         </div>
       </div>

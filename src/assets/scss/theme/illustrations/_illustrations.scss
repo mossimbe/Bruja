@@ -16,7 +16,8 @@
 
 // Hero illustration
 .illustration-section-01::after {
-	@include illustration('illustration-section-01.svg', 100%, 286px, top);
+	@include illustration('illustration-section-01.svg', 100%, 350px, top);
+	filter: invert(59%) sepia(65%) saturate(5937%) hue-rotate(14deg) brightness(50%) contrast(50%);
 }
 
 // Features illustration 02

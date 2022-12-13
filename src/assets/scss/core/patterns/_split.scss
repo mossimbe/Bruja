@@ -17,14 +17,14 @@
 
 		.split-item-image {
 			position: relative;
-			width: 100%;
+			width: 400px;
 
 			img,
 			svg,
 			video {
-				width: auto;
-				height: auto;
-				max-width: 100%;
+				width: 350px;
+				height: 300;
+				max-width: 400px;
 				overflow: visible;
 			}
 
@@ -33,7 +33,7 @@
 				img,
 				svg,
 				video {
-					width: 100%;
+					width: 400px;
 				}
 			}
 		}
