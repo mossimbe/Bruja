@@ -2,7 +2,6 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import classNames from 'classnames';
 import Logo from './partials/Logo';
-import FooterNav from './partials/FooterNav';
 import FooterSocial from './partials/FooterSocial';
 import { FloatingWhatsApp } from 'react-floating-whatsapp';
 
@@ -45,7 +44,6 @@ const Footer = ({
             <FooterSocial />
           </div>
           <div className="footer-bottom space-between bg-color text-xxs invert-order-desktop">
-            <FooterNav />
             <div className="footer-copyright text-color-primary">Copyright © 2022 <a href="https://cruip.com" className='text-color-primary'>Bashna</a></div> 
           </div>
         </div>
@@ -57,6 +55,10 @@ const Footer = ({
         allowClickAway
         notification
         notificationSound
+        avatar="2.png"
+        statusMessage="Respondemos en 1 hora..."
+        chatMessage="Hola, ¿en qué te puedo ayudar?"
+        placeholder="Escribe un mensaje..."
       />
     </footer>
   );

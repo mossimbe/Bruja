@@ -2,7 +2,7 @@ import React, { useState, useRef, useEffect } from 'react';
 import PropTypes from 'prop-types';
 import classNames from 'classnames';
 import Logo from './partials/Logo';
-import FooterNav from './partials/FooterNav';
+
 
 const propTypes = {
   navPosition: PropTypes.string,
@@ -89,7 +89,6 @@ const Header = ({
           <Logo />
           
         </div>
-        <FooterNav/>
       </div>
     </header>
   );

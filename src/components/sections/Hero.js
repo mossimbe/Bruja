@@ -85,7 +85,7 @@ const Hero = ({
             >
               <Image
                 className="has-shadow"
-                src={require('./../../assets/images/2.png')}
+                src={require('./../../assets/images/video.png')}
                 alt="Hero"
                 width={434}
                 height={300} />
@@ -95,7 +95,7 @@ const Hero = ({
             id="video-modal"
             show={videoModalActive}
             handleClose={closeModal}
-            video="https://player.vimeo.com/video/500443899"
+            video="https://player.vimeo.com/video/93127565"
             videoTag="iframe" />
         </div>
       </div>
