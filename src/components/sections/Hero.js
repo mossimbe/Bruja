@@ -69,7 +69,7 @@ const Hero = ({
                 </p>
               <div className="reveal-from-bottom mt-2" data-reveal-delay="600">
                 <ButtonGroup>
-                  <Button tag="a"  wideMobile href="https://cruip.com/">
+                  <Button tag="a"   href="https://wa.me/13056486102">
                     Agenda cita con el maestro
                     </Button>
                 </ButtonGroup>
@@ -78,7 +78,7 @@ const Hero = ({
           </div>
           <div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800">
             <a
-              data-video="https://player.vimeo.com/video/500443899"
+              data-video="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2F100088212625649%2Fvideos%2F1114858105798335%2F&show_text=false&width=267&t=0"
               href="#0"
               aria-controls="video-modal"
               onClick={openModal}
@@ -95,7 +95,7 @@ const Hero = ({
             id="video-modal"
             show={videoModalActive}
             handleClose={closeModal}
-            video="https://player.vimeo.com/video/93127565"
+            video="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2F100088212625649%2Fvideos%2F1114858105798335%2F&show_text=false&width=267&t=0"
             videoTag="iframe" />
         </div>
       </div>
