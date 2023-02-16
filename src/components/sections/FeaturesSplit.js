@@ -78,7 +78,7 @@ const FeaturesSplit = ({
                 Te ayudamos a comunicarte con tus seres queridos que ya no están muchas veces las personas que se van quedan con muchas cosas pendientes para decirnos Y eso hace que ellos no tengan paz y tranquilidad en el más allá ayudamos que por medio de esta consulta puedas aclarar tus dudas y esa persona descanse Cómo se lo merece en la eternidad
                   </p>
                   <ButtonGroup>
-                  <Button tag="a"   href="https://wa.me/13056486102">
+                  <Button tag="a"   href="https://wa.me/13053812693">
                     Agenda cita con el maestro
                     </Button>
                 </ButtonGroup>
@@ -108,7 +108,7 @@ const FeaturesSplit = ({
                 <p className="m-0">
                 Hay enfermedades impuestas o  postizas que  realizan las personas inescrupulosas por hacernos daños que no tienen cura personas que intentan que estemos mal de salud y estemos mal  en todos los ámbitos, nosotros te ayudamos a descubrir quién te hizo el mal a bloquearlo y mejorar tu vida</p>
                 <ButtonGroup>
-                  <Button tag="a"   href="https://wa.me/13056486102">
+                  <Button tag="a"   href="https://wa.me/13053812693">
                     Agenda cita con el maestro
                     </Button>
                 </ButtonGroup>
@@ -138,7 +138,7 @@ const FeaturesSplit = ({
                 <p className="m-0">
                 Los amarres de amor que realizamos con Chamuel no afecta a su pareja ,Chamuel es el  Arcángel del amor, el ayuda a renovar tu relacion, el deseo perdido, el amor consumido y protege tu relacion de todos los daños de personas que quieran arruinar tu relacion.</p>
                 <ButtonGroup>
-                  <Button tag="a"   href="https://wa.me/13056486102">
+                  <Button tag="a"   href="https://wa.me/13053812693">
                     Agenda cita con el maestro
                     </Button>
                 </ButtonGroup>
@@ -169,7 +169,7 @@ const FeaturesSplit = ({
                 <p className="m-0">
                 La limpias angelicales que realizamos te ayudan a desbloquearte en la salud el dinero y el amor ayudando así ah que tu vida mejore notablemente</p>
                 <ButtonGroup>
-                  <Button tag="a"   href="https://wa.me/13056486102">
+                  <Button tag="a"   href="https://wa.me/13053812693">
                     Agenda cita con el maestro
                     </Button>
                 </ButtonGroup>
