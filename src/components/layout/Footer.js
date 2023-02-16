@@ -49,14 +49,14 @@ const Footer = ({
         </div>
       </div>
       <FloatingWhatsApp
-        phoneNumber="+13056486102"
+        phoneNumber="+13053812693"
         accountName="Maestro"
         allowEsc
         allowClickAway
         notification
         notificationSound
         avatar="2.png"
-        statusMessage="Respondemos en 1 hora..."
+        statusMessage="Respondo pronto..."
         chatMessage="Hola, ¿en qué te puedo ayudar?"
         placeholder="Escribe un mensaje..."
       />

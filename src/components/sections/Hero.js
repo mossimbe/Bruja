@@ -69,7 +69,7 @@ const Hero = ({
                 </p>
               <div className="reveal-from-bottom mt-2" data-reveal-delay="600">
                 <ButtonGroup>
-                  <Button tag="a"   href="https://wa.me/13053812693">
+                  <Button tag="a" href="https://wa.me/13053812693">
                     Agenda cita con el maestro
                     </Button>
                 </ButtonGroup>

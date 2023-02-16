@@ -138,7 +138,7 @@ const FeaturesSplit = ({
                 <p className="m-0">
                 Los amarres de amor que realizamos con Chamuel no afecta a su pareja ,Chamuel es el  Arcángel del amor, el ayuda a renovar tu relacion, el deseo perdido, el amor consumido y protege tu relacion de todos los daños de personas que quieran arruinar tu relacion.</p>
                 <ButtonGroup>
-                  <Button tag="a"   href="https://wa.me/13053812693">
+                  <Button tag="a" href="https://wa.me/13053812693">
                     Agenda cita con el maestro
                     </Button>
                 </ButtonGroup>
@@ -169,7 +169,7 @@ const FeaturesSplit = ({
                 <p className="m-0">
                 La limpias angelicales que realizamos te ayudan a desbloquearte en la salud el dinero y el amor ayudando así ah que tu vida mejore notablemente</p>
                 <ButtonGroup>
-                  <Button tag="a"   href="https://wa.me/13053812693">
+                  <Button tag="a" href="https://wa.me/13053812693">
                     Agenda cita con el maestro
                     </Button>
                 </ButtonGroup>
